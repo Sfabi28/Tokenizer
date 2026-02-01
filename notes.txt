@@ -1,0 +1,18 @@
+Mandatory:
+
+- free to use any token name, must include 42 in it
+- must include readme
+- any language, has to respect block chai standard  (for example ERC20 for ETH or BEP-20 for BSC)
+- choose a blockchain
+- "code" folder at root, it has to contain the code used to create the token
+- code should be full of comments
+- the token needs to be clear, secure (ownership and privileges)
+- second folder with any name i want to put all secondaty things
+- after deployment of the token on a blockchain i need to define its ticker and publish it on a blockchain explorer (blockscan or bscscan)
+- "documentation" folder at root, it should contain all documentation of the token, understand how it works and what is needed to use the token
+- whitepaper needed to outline features and functonality of the token
+
+
+Bonus:
+
+- implement multisignature system (multisig)
